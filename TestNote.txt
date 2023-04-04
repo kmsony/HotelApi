@@ -1,0 +1,12 @@
+Run Application which will open in Swagger testing window in browser
+
+click on GET
+click on Try it Out
+
+Pass the parameters as 
+
+ Hotel ID  - 8759
+
+ Arrival Date - 15-03-2016
+
+Click on Execute
